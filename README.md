@@ -4,7 +4,7 @@ Ini adalah proyek Hari ke-3, sebuah aplikasi cuaca yang tidak hanya fungsional t
 
 ### 🚀 Live Demo
 
-[Lihat Demo Langsung](https://your-vercel-or-netlify-link.com) ### 📸 Tampilan
+[Lihat Demo Langsung](https://weather-app-cnb4.vercel.app/) ### 📸 Tampilan
 
 
 *(Sangat disarankan untuk menggunakan GIF di sini untuk memamerkan latar belakang dinamis dan animasi!)*
